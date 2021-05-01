@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "627188925820",
+    "firebase_url": "https://schoolender-deabc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "schoolender-deabc",
+    "storage_bucket": "schoolender-deabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627188925820:android:56410660237860b95a50f9",
+        "android_client_info": {
+          "package_name": "com.mohammedev.schoolender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627188925820-g2rj9notmvl223norgpuherdv3si4lh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammedev.schoolender",
+            "certificate_hash": "62f5247a411b5493c442bc7be9a822c66aeefd61"
+          }
+        },
+        {
+          "client_id": "627188925820-ilu9oil1gpes4im4s5vslu09bedoumfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dwH0SNS8MMNeAq9nz7BRsObFldz-NCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627188925820-ilu9oil1gpes4im4s5vslu09bedoumfp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "627188925820-da90rhoa59cccvtohoqnmni63g06s88m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hab.schoolender"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
